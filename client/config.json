@@ -1,0 +1,17 @@
+ {
+    "client1": {
+        "host": "127.0.0.1",
+        "port": 12345,
+        "client_port": 50001
+    },
+    "client2": {
+        "host": "127.0.0.1",
+        "port": 12345,
+        "client_port": 50002
+    },
+    "client3": {
+        "host": "127.0.0.1",
+        "port": 12345,
+        "client_port": 50003
+    }
+}
